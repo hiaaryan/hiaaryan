@@ -1,4 +1,4 @@
-### Hey there! 👋🏻 I am Aaryan. myselfaaryan?
+### Hey there! 👋🏻 I am Aaryan.
 
 I am self taught developer working with rubix ml, react, tailwind & laravel. I love developing amazing frontend interfaces and writing logical backend code 🧠. I am currently working on a management & educational ai 'trista' for my own startup KnowEd.
 
